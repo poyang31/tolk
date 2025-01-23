@@ -1,0 +1,4 @@
+fastapi[standard]
+line-bot-sdk
+openai
+PyYAML

@@ -1,0 +1,8 @@
+line:
+  channel_access_token: ""
+  channel_secret: ""
+
+openai:
+  base_url: "https://api.openai.com/v1"
+  model: "text-davinci-003"
+  api_key: ""
